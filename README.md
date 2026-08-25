@@ -5,6 +5,14 @@ I’m a Data Analyst focused on transforming raw data into meaningful insights a
 
 With 2.4 years of previous experience as a Java Backend Developer, I bring a strong software engineering foundation, structured problem-solving approach, and understanding of databases and application development into my analytics work.
 
+💳 PhonePe Payment Insights Dashboard
+
+Tech: Power BI | DAX | Data Modeling | Data Visualization
+
+Built an interactive Power BI dashboard analyzing ~300K digital payment transactions across 108K users, covering transaction value, user demographics, service categories, and payment success/failure rates. Designed a dynamic, DAX-driven insights panel that generates live natural-language summaries (e.g. top-performing service by value) using Power BI's Insert Data Value feature — so insights update automatically as users filter by Month or Payment Status (Failed/Pending/Successful), rather than relying on static text.
+
+Key Focus: DAX Measures | Time Intelligence | Filter-Aware KPIs | Dynamic Insight Generation | Dashboard Design
+
 🚀 Featured Data Analytics Projects
 📈 Decathlon Sales & Customer Analytics
 
