@@ -27,16 +27,15 @@ Key Focus: Sales Analytics | Customer Analytics | KPI Analysis | Dashboard Devel
 
 🛒 Online Book Store
 
-Tech: Java | Spring Boot | SQL | MySQL | Backend Development
+Tech:SQL | MySQL 
 
 Developed a backend-oriented online bookstore application demonstrating practical software engineering concepts.
-Implemented database-driven functionality and business logic using Java and SQL.
-Demonstrates my previous experience in backend development, APIs, databases, and application architecture.
+Implemented database-driven functionality and business logic using SQL.
 
-Key Focus: Java | Spring Boot | SQL | MySQL | Backend Development
+Key Focus: SQL | MySQL
 
 🛠️ Data Analytics Toolbox
-Languages: Python | SQL | Java
+Languages: Python | SQL 
 Analytics: Data Cleaning | Exploratory Data Analysis | Statistics | Business Analysis
 Visualization: Power BI | Tableau | Excel
 Databases: MySQL | SQL
